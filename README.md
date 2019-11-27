@@ -1,8 +1,15 @@
-# neuro-radar
-Visualisation of neuro waves
+# Neuro Player
+Визуализация ритмов мозга, версия 'Радар'
+
+Обновления 19-11-27
+- добавлен звук с микрофона по умолчанию при запис видео
+- добавлено разделение экрана на 4 части
+- обновлено именование файлов видео и картинок
+![обновление](/Files/2019-11-27_13-53-52.png)
+
 
 1. Обзор программы https://youtu.be/MyDBydYVPV0
 2. Скачивание, установка TouchDesigner, запуск в режиме демо https://youtu.be/GYEZK92iksk
 3. Подключение Muse https://youtu.be/vD8AgaotJCI
 
-![neuro-radar](/Files/Snap.4.png)
+![neuro-player](/Files/Snap.4.png)
